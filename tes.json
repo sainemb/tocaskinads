@@ -1,0 +1,40 @@
+{
+  "Ads": [
+    {
+     "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+  
+
+    }
+  ],
+  "More":
+  [
+    {
+      "title":"Nature",
+      "image":"file:///android_asset/more/more1.png",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    }
+
+  ],
+
+  "Wallpaper": [
+    {
+      "image": "file:///android_asset/wallpaper/wall1.jpg"
+    }
+  ]
+
+}
